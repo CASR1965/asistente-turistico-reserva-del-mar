@@ -1,0 +1,16 @@
+{
+  "name": "backend-asistente-reserva-del-mar",
+  "version": "1.0.0",
+  "description": "Backend de analítica e intenciones para Asistente Turístico Reserva del Mar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
+
